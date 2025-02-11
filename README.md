@@ -6,7 +6,9 @@ I create this repo to store all my solutions for code challenges proposed in the
 ## List of challenges
 - [A simple calculator app][calculator_app]
 - [Find a substring's location][substring_location]
+- [Throw and catch an exception][throw_catch_exception]
 
 [course_material_link]: https://www.linkedin.com/learning/java-8-essential-training
 [calculator_app]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/calculator_app
 [substring_location]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/substring_location
+[throw_catch_exception]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/throw_catch_exception
