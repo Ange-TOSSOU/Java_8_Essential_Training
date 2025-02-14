@@ -21,6 +21,7 @@ public class ComplexCalculator {
             case "/":
                 return d1 / d2;
             default:
+                System.out.println("You didn't choose a valid operation.");
                 return Double.NEGATIVE_INFINITY;
         }
     }
