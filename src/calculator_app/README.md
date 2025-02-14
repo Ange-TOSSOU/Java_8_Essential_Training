@@ -19,8 +19,8 @@ You're given two values typed as `String`.
 
 ## Example 1:
 Input: `"1"`, `"2"`\
-Output: `3`
+Result: `3`
 
 ## Example 2:
 Input: `"12"`, `"-24.5"`\
-Output: `-12.5`
+Result: `-12.5`
