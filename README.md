@@ -9,6 +9,7 @@ I create this repo to store all my solutions for code challenges proposed in the
 - [Throw and catch an exception][throw_catch_exception]
 - [A complex calculator app][complex_calculator_app]
 - [Calculate the value of a shopping cart][shopping_cart_value]
+- [Create and use a custom class][custom_class]
 
 [course_material_link]: https://www.linkedin.com/learning/java-8-essential-training
 [calculator_app]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/calculator_app
@@ -16,3 +17,4 @@ I create this repo to store all my solutions for code challenges proposed in the
 [throw_catch_exception]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/throw_catch_exception
 [complex_calculator_app]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/complex_calculator_app
 [shopping_cart_value]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/shopping_cart_value
+[custom_class]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/custom_class
