@@ -1,7 +1,7 @@
 package shopping_cart_value;
 
 enum ProductType {
-    SOCKS, SHIRT, PANTS
+    SOCKS, SHIRT, PANTS;
 }
 
 public class Product {
