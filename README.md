@@ -11,6 +11,7 @@ I create this repo to store all my solutions for code challenges proposed in the
 - [Calculate the value of a shopping cart][shopping_cart_value]
 - [Create and use a custom class][custom_class]
 - [Output values from a superclass][superclass_subclasses]
+- [Read a text file with Apache Commons][apache_commons_io]
 
 [course_material_link]: https://www.linkedin.com/learning/java-8-essential-training
 
@@ -21,3 +22,4 @@ I create this repo to store all my solutions for code challenges proposed in the
 [shopping_cart_value]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/shopping_cart_value
 [custom_class]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/custom_class
 [superclass_subclasses]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/superclass_subclasses
+[apache_commons_io]: https://github.com/Ange-TOSSOU/Java_8_Essential_Training/tree/main/src/apache_commons_io
